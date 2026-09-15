@@ -1,0 +1,11 @@
+{
+  "slug": "agent-capability-card",
+  "name": "Agent Capability Card",
+  "kind": "agent",
+  "description": "Generate machine-readable agent endpoint, pricing, and capability metadata.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
