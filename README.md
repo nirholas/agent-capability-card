@@ -1,5 +1,10 @@
 # Agent Capability Card
 
+<!-- three.ws:badges -->
+[![GitHub stars](https://img.shields.io/github/stars/nirholas/agent-capability-card?style=flat&logo=github)](https://github.com/nirholas/agent-capability-card/stargazers) [![Last commit](https://img.shields.io/github/last-commit/nirholas/agent-capability-card?style=flat)](https://github.com/nirholas/agent-capability-card/commits) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/nirholas/agent-capability-card/pulls) [![AI agent friendly](https://img.shields.io/badge/AI%20agents-AGENTS.md%20%2B%20llms.txt-6d5dfc?style=flat)](https://github.com/nirholas/agent-capability-card/blob/HEAD/AGENTS.md)
+<!-- /three.ws:badges -->
+
+
 Generate machine-readable agent endpoint, pricing, and capability metadata.
 
 ## Why this exists
@@ -47,3 +52,26 @@ MIT
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nirholas/agent-capability-card&type=Date)](https://www.star-history.com/#nirholas/agent-capability-card&Date)
+
+<!-- three.ws:growth -->
+## Support the project
+
+If agent-capability-card saves you time, **[star it on GitHub](https://github.com/nirholas/agent-capability-card)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=agent-capability-card%3A%20Generate%20machine-readable%20agent%20endpoint%2C%20pricing%2C%20and%20capability%20metadata&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fagent-capability-card) · [Share on Bluesky](https://bsky.app/intent/compose?text=agent-capability-card%3A%20Generate%20machine-readable%20agent%20endpoint%2C%20pricing%2C%20and%20capability%20metadata%20https%3A%2F%2Fgithub.com%2Fnirholas%2Fagent-capability-card) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fagent-capability-card) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Fagent-capability-card&t=agent-capability-card%3A%20Generate%20machine-readable%20agent%20endpoint%2C%20pricing%2C%20and%20capability%20metadata) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fagent-capability-card&title=agent-capability-card%3A%20Generate%20machine-readable%20agent%20endpoint%2C%20pricing%2C%20and%20capability%20metadata)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/agent-capability-card` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/agent-capability-card/issues) or [start a discussion](https://github.com/nirholas/agent-capability-card/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/agent-capability-card)](https://github.com/nirholas/agent-capability-card/graphs/contributors)
+
+<!-- /three.ws:growth -->
