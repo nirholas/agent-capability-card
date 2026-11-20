@@ -8,7 +8,7 @@ Generate machine-readable agent endpoint, pricing, and capability metadata.
 
 - Source: https://github.com/nirholas/agent-capability-card
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
